@@ -1,3 +1,9 @@
+# Convert playlists from Spotify to Youtube Music
+
+
+## built with Deno 2
+
+
 -> make sure to add your .env file with
     ```
     SPOTIFY_CLIENT_ID=123
